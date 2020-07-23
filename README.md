@@ -1,5 +1,8 @@
+
+# This is a Simple To-do List App written with React and TypeScript
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-# This is a Simple To-do List App written with create-react-app
+
 ## Available Scripts
 
 In the project directory, you can run:
