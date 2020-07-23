@@ -1,0 +1,9 @@
+.complete {text-decoration: line-through;}
+html {text-align: center; margin-top: 200px;}
+div {display: inline-block;
+border-style: solid;
+border-radius: 5px;}
+input{border-radius: 5px;}
+button{background-color: #ADD8E6;
+border:none;
+display:inline-block;}
